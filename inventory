@@ -1,1 +1,1 @@
-localhost ansible_user=root ansible_ssh_pass=password
+localhost ansible_user=john-jose ansible_ssh_pass=JohnJose@2001
